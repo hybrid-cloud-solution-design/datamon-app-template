@@ -61,7 +61,7 @@
                       "items": {
                         "type": "object",
                         "properties": {
-			  "Co2": {
+			                      "Co2": {
                             "type": "number"
                           },
                           "Totalwaste": {
